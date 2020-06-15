@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1592235483032" clover="3.2.0">
+  <project timestamp="1592235483032" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="22" coveredelements="22" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="index.ts" path="/Users/mystes/Documents/MySpace/ErrorReport/src/index.ts">
+      <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="12" type="stmt"/>
+      <line num="14" count="12" type="stmt"/>
+      <line num="15" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="32" type="stmt"/>
+      <line num="17" count="8" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="12" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="36" count="12" type="stmt"/>
+    </file>
+  </project>
+</coverage>

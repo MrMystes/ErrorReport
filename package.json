@@ -6,7 +6,6 @@
   "scripts": {
     "build": "tec",
     "lint": "eslint src/* --ext .ts",
-    "format": "eslint ./src/index.ts",
     "test": "jest"
   },
   "pre-commit": [
